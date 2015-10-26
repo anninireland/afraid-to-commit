@@ -1,4 +1,4 @@
-####################
+﻿####################
 Attendees & learners
 ####################
 
@@ -17,7 +17,7 @@ PyCon Ireland in Dublin, 26th October 2015
 * Gearoid Ryan https://github.com/gearoid-ryan
 * Jakub Pawlicki https://github.com/JakubPawlicki
 * Ivin Polo Sony @ivinpolosony http://github.com/ivinpolosony/
-* Lisa Cavern @anninireland https://github.com/anninireland
+* Lisa Cavern @anninireland https://github.com/anninireland 
 * Jeremie Jost https://github.com/jjst
 * Richard Loy https://github.com/Richloy
 * Art Knipe https://github.com/artkgithub
